@@ -18,7 +18,8 @@ function flatteningArray(input){
 }
 
 const finalresult=flatteningArray(updatedUserInput)
-for (let index = 0; index < finalresult.length; index++) {
-    console.log(finalresult[index])
+// for (let index = 0; index < finalresult.length; index++) {
+//     console.log(finalresult[index])
     
-}
+// }
+console.log(finalresult);
